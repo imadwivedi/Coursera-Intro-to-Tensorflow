@@ -1,4 +1,4 @@
-# Coursera-Intro-to-Tensorflow For Deep Learning
+# Coursera-Introduction-to-Tensorflow For Deep Learning
 
 Coursera assignments for Intro to tensorflow for Deep Learning Course. 
 
